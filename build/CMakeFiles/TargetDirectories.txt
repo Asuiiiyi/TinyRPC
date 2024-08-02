@@ -1,0 +1,4 @@
+/home/asuiiiyi/Repository/TinyRPC/build/CMakeFiles/rebuild_cache.dir
+/home/asuiiiyi/Repository/TinyRPC/build/CMakeFiles/edit_cache.dir
+/home/asuiiiyi/Repository/TinyRPC/build/CMakeFiles/Client.dir
+/home/asuiiiyi/Repository/TinyRPC/build/CMakeFiles/Server.dir
